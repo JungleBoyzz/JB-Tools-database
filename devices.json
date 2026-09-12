@@ -1,1 +1,137 @@
-halo
+{
+    "APPLE": {
+        "tier": "flagship",
+        "types": [
+            "iPhone 17 Pro Max", "iPhone 17 Pro", "iPhone 17", "iPhone Air",
+            "iPhone 16 Pro Max", "iPhone 16 Pro", "iPhone 16 Plus", "iPhone 16",
+            "iPhone 15 Pro Max", "iPhone 15 Pro", "iPhone 15 Plus", "iPhone 15",
+            "iPhone 14 Pro Max", "iPhone 14 Pro", "iPhone 14", "iPhone 13", "iPhone 11",
+            "iPhone X (2017)", "iPhone 8 (2017)", "iPhone 7 (2016)", "iPhone 6S (2015)"
+        ]
+    },
+    "ASUS": {
+        "tier": "flagship",
+        "types": [
+            "ROG Phone 9 Pro", "ROG Phone 9", "ROG Phone 8 Pro", "Zenfone 11 Ultra", 
+            "Zenfone 10", "ROG Phone 7", "ROG Phone 6", "Zenfone 5 (2018)", "Zenfone 2 (2015)"
+        ]
+    },
+    "GOOGLE PIXEL": {
+        "tier": "flagship",
+        "types": [
+            "Pixel 9 Pro XL", "Pixel 9 Pro", "Pixel 9", "Pixel 8 Pro", "Pixel 8", 
+            "Pixel 7a", "Pixel 6a", "Pixel (2016)"
+        ]
+    },
+    "HONOR": {
+        "tier": "midrange",
+        "types": [
+            "Honor Magic 6 Pro", "Honor 200 Pro", "Honor 100 Pro", "Honor 90", "Honor 8 (2016)"
+        ]
+    },
+    "HUAWEI": {
+        "tier": "flagship",
+        "types": [
+            "Pura 70 Ultra", "Mate 60 Pro", "P50 Pro", "P30 Pro (2019)", "P20 (2018)", "P9 (2016)"
+        ]
+    },
+    "INFINIX": {
+        "tier": "midrange",
+        "types": [
+            "Infinix GT 20 Pro", "Infinix Zero 30", "Infinix Note 40 Pro", "Infinix GT 10 Pro", 
+            "Hot 8 (2019)", "Hot 6 (2018)"
+        ]
+    },
+    "ITEL": {
+        "tier": "entry",
+        "types": [
+            "Itel P55 5G", "Itel S24", "Itel A70"
+        ]
+    },
+    "LENOVO": {
+        "tier": "entry",
+        "types": [
+            "Legion Y700 (Tablet)", "Legion Duel 2", "K12 Note"
+        ]
+    },
+    "MEIZU": {
+        "tier": "midrange",
+        "types": [
+            "Meizu 21 Pro", "Meizu 20", "MX4 (2014)"
+        ]
+    },
+    "MOTOROLA": {
+        "tier": "midrange",
+        "types": [
+            "Edge 50 Pro", "Moto G84", "Razr 40 Ultra", "Moto G4 (2016)"
+        ]
+    },
+    "NUBIA": {
+        "tier": "flagship",
+        "types": [
+            "Red Magic 9 Pro", "Red Magic 8 Pro", "Nubia Z60 Ultra"
+        ]
+    },
+    "ONEPLUS": {
+        "tier": "flagship",
+        "types": [
+            "OnePlus 12", "OnePlus 11", "OnePlus 10 Pro", "OnePlus One (2014)"
+        ]
+    },
+    "OPPO": {
+        "tier": "midrange",
+        "types": [
+            "Find X7 Ultra", "Reno 12 Pro", "Reno 11 Pro", "A78", "F9 (2018)", "F7 (2018)", "F5 (2017)"
+        ]
+    },
+    "POCO": {
+        "tier": "flagship",
+        "types": [
+            "POCO F6 Pro", "POCO F6", "POCO X6 Pro", "POCO F5", "POCO F1 (2018)"
+        ]
+    },
+    "REALME": {
+        "tier": "midrange",
+        "types": [
+            "Realme GT 6", "Realme GT 5 Pro", "Realme 12 Pro+", "Realme C55", "Realme 3 (2019)"
+        ]
+    },
+    "SAMSUNG": {
+        "tier": "flagship",
+        "types": [
+            "Galaxy S24 Ultra", "Galaxy S24+", "Galaxy S23 Ultra", "Galaxy S22", 
+            "Galaxy S10 (2019)", "Galaxy S8 (2017)", "Galaxy S7 (2016)", "Galaxy A54 5G"
+        ]
+    },
+    "SONY": {
+        "tier": "flagship",
+        "types": [
+            "Xperia 1 VI", "Xperia 5 V", "Xperia Z5 (2015)"
+        ]
+    },
+    "TECNO": {
+        "tier": "midrange",
+        "types": [
+            "Tecno Camon 30 Premier", "Tecno Pova 5 Pro", "Tecno Phantom X2"
+        ]
+    },
+    "VIVO": {
+        "tier": "midrange",
+        "types": [
+            "X100 Pro", "V30 Pro", "Y36", "V9 (2018)", "V7 (2017)"
+        ]
+    },
+    "XIAOMI": {
+        "tier": "flagship",
+        "types": [
+            "Xiaomi 14 Ultra", "Xiaomi 13", "Redmi Note 13 Pro", "Mi 8 (2018)", 
+            "Mi 6 (2017)", "Redmi Note 4 (2016)"
+        ]
+    },
+    "ZTE": {
+        "tier": "midrange",
+        "types": [
+            "ZTE Axon 60 Ultra", "Axon 7 (2016)"
+        ]
+    }
+}
